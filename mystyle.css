@@ -1,0 +1,12 @@
+#weather{
+    margin-top: 100px;
+    width:500px;
+    height: 500px;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+
+.cold{
+    background-image: url(https://cdn.pixabay.com/photo/2024/02/26/20/48/landscape-8598886_1280.jpg);
+    /*background-color:blue*/
+}
